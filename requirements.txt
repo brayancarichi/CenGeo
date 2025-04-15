@@ -1,0 +1,4 @@
+altair==5.5.0
+leafmap==0.36.7
+pandas==2.2.3
+streamlit==1.37.1
